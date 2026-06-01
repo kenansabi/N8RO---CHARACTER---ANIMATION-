@@ -26,4 +26,4 @@ Controlled Joints:
 9. Left Elbow
 10. Right Elbow
 
-The plugin controls 10 joints and demonstrates i
+The plugin controls 10 joints and demonstrates idle and walk motion states
